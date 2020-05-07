@@ -1,5 +1,6 @@
 * {
   max-width: 960px;
+  /* margin-left: 30px; */
 }
 
 header {
@@ -23,10 +24,45 @@ li {
 
 main img {
   margin-top: 20px;
-  
+  margin-bottom: 0px;
 }
 
 .banner1, .banner2, .banner3 {
   float: left;
-  padding: 10px;
+}
+
+.banner2 {
+  padding: 0px 30px 0px 30px;
+}
+
+p {
+  padding: 0px;
+  display: inline-block;
+}
+
+img.featured {
+  float: left;
+  margin-right: 0px;
+}
+
+#featured {
+  margin-bottom: 20px;
+}
+
+.featured1, .featured2 {
+  display: inline-block;
+  
+}
+
+div.featured2 {
+  height: 300px;
+  width: 480px;
+  overflow: scroll;
+  float: right;
+  margin-top: 20px;
+}
+
+footer {
+  height: 150px;
+  background-color: darkgray;
 }
