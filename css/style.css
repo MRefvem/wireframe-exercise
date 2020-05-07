@@ -19,7 +19,6 @@ header {
 li {
   display: inline-block;
   padding: 50px;
-
 }
 
 main img {
@@ -51,7 +50,6 @@ img.featured {
 
 .featured1, .featured2 {
   display: inline-block;
-  
 }
 
 div.featured2 {
