@@ -56,10 +56,11 @@ img.featured {
 
 div.featured2 {
   height: 300px;
-  width: 480px;
+  width: 460px;
   overflow: scroll;
   float: right;
   margin-top: 20px;
+  margin-left: 20px;
 }
 
 footer {
